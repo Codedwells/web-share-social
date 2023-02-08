@@ -18,7 +18,7 @@ not forgeting the **web-share.css** file. With those two files you are set.
     // The first parameter would be your link. The second parameter would be your
     // message.
     share.handleShare({
-        URL: 'https://your.link.com',
+        URL: 'https://your.link.com', 
         Message: 'This is your message to the users.',
     });
   ```

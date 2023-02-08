@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Codedwells/web-share-social.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["social-share","sharing library","social media share"],
+  "author": "Abel Misiocha",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Codedwells/web-share-social/issues"
