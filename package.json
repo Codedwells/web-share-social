@@ -4,7 +4,7 @@
   "description": "Web share api simplified. Impliment share to social faster with our CDN. Or npm librafy.",
   "main": "tailwind.config.js",
   "scripts": {
-    "tsc":"tsc --outDir ./logic/build/ --watch",
+    "tsc":"tsc --outDir ./build/ --watch",
     "css": "npx tailwindcss -i ./input.css -o ./css/output.css --watch"
   },
   "repository": {
