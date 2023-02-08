@@ -1,0 +1,21 @@
+{
+  "name": "web-share-social",
+  "version": "1.0.0",
+  "description": "Web share api simplified. Impliment share to social faster with our CDN. Or npm librafy.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tsc":"tsc --outDir ./logic/build/ --watch",
+    "css": "npx tailwindcss -i ./input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codedwells/web-share-social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codedwells/web-share-social/issues"
+  },
+  "homepage": "https://github.com/Codedwells/web-share-social#readme"
+}
