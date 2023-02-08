@@ -115,8 +115,8 @@ Wsshare.shareNow = (e) => __awaiter(void 0, void 0, void 0, function* () {
 });
 var share = new Wsshare();
 share.handleShare({
-    URL: 'http://boostctr.eu-4.evennode.com',
-    Message: 'Check out the awesome tips here',
+    URL: 'google.com',
+    Message: 'See my awesome site.',
 });
 setTimeout(() => {
     const facebook = document.getElementById('facebook');
